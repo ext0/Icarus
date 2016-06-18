@@ -10,6 +10,7 @@ namespace Icarus
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
